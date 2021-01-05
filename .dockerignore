@@ -1,0 +1,17 @@
+.DS_Store
+ReactDirStructure.md
+GithubReposName.md
+.npmrc
+node_modules
+.tmp 
+.jshintrc
+coverage
+dist
+.nyc_output
+.git
+.sass-cache
+.babel
+.vs
+.vscode
+.idea
+bower_components
